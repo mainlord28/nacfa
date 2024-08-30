@@ -1,1 +1,4 @@
-hola
+hola<br/>
+<?php
+	echo "mola!!";
+?>
